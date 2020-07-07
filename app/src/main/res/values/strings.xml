@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TryPicasso</string>
+    <string name="enter_url">enter url</string>
+    <string name="set_image_url">set image url</string>
 </resources>
