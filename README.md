@@ -1,3 +1,4 @@
 # this project is part of open-source workshop
-## this app get and image url and upload it into an image view
-![alt text](screenRecord.gif)
+## this appact as image gallery view
+### you can insert image url and upload an image to the gallery
+![alt text](screen_record.gif)
